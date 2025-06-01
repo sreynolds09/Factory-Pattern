@@ -5,7 +5,7 @@ namespace FactoryPattern
     public class Car : IVehicle
     {
         
-        public void vehicle()
+        public void Vehicle()
         {
             ConsoleLogger.VehicleStartUpDialogue();
             Console.WriteLine("The car is driving");

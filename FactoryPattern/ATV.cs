@@ -2,7 +2,7 @@
 
 public class ATV : IVehicle
 {
-    public void vehicle()
+    public void Vehicle()
     {
         {
             ConsoleLogger.VehicleStartUpDialogue();

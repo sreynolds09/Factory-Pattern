@@ -14,7 +14,7 @@
             } while (input == false);
             
             var vehicle = VehicleFactory.GetVehicle(wheelcount);
-            vehicle.vehicle();
+            vehicle.Vehicle();
         }
     }
 }

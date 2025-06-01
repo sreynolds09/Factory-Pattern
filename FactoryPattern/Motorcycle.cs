@@ -2,7 +2,7 @@
 
 public class Motorcycle : IVehicle
 {
-    public void vehicle()
+    public void Vehicle()
     {
         ConsoleLogger.VehicleStartUpDialogue();
         Console.WriteLine("The Motorcycle has 2 tires.");

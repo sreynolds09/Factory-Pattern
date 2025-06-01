@@ -3,7 +3,7 @@
 
     public interface IVehicle
     {
-        public void vehicle();
+        public void Vehicle();
 
     }
 }
